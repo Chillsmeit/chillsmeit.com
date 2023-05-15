@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 02/01/2006
+date_format: 2 January, 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -23,7 +23,7 @@ date_format: 02/01/2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: IT Freelancer
-    date_start: '01/01/2015'
+    date_start: '2015-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -37,8 +37,8 @@ experience:
     company_url: https://www.amt-consulting.com/
     company_logo: ''
     location: Lisbon, Portugal
-    date_start: '01/02/2017'
-    date_end: '10/03/2019'
+    date_start: '2017-01-02'
+    date_end: '2019-10-03'
     description: |2-
         Responsibilities include:
 
@@ -59,8 +59,8 @@ experience:
     company_url: https://www.cbtalents.com/
     company_logo: ''
     location: Lisbon, Portugal
-    date_start: '07/09/2015'
-    date_end: '02/07/2016'
+    date_start: '2015-07-09'
+    date_end: '2016-02-07'
     description: |2-
         Responsabilities include:
  

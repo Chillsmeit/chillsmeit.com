@@ -53,8 +53,3 @@ Setting up a PfSense Router and upgrading my Media Server & Cloud Storage to a Q
 
 
 Feel free to *[contact](#contact)* 🗣️ me directly.
-
-Interests    |    Skills
-| :-----: | :-----: |
-Content Cell    |    Content Cell
-Content Cell    |    Content Cell

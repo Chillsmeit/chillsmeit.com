@@ -1,5 +1,6 @@
 ---
 widget: featurette
+active: false
 headless: true
 weight: 20
 title: Features

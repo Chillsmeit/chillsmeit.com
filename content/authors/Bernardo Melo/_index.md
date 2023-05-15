@@ -6,10 +6,10 @@ title: Bernardo Melo
 superuser: true
 
 # Role/position/tagline
-# role: ''
+ role: 'IT Freelancer, Ex-SysAdmin'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sys Admin / IT Freelancer
+# bio: Sys Admin / IT Freelancer
 
 # Interests to show in About widget
 interests:
@@ -54,9 +54,11 @@ highlight_name: false
 
 ## this is how to use icons in posts: {{< icon name="download" pack="fas" >}}
 ---
-I am a Linux, FOSS, Networking, Hardware and Privacy enthusiast 🕵️. From building custom PCs 🖥️ (Workstations for CAD, Video Editing and Gaming) to tinkering with RaspberryPis 🫐 and Linux Distributions 🐧. </br>
-My mosts recents projects were: Upgrading my Home Network to the next level with a Recursive DNS (Unbound), Domain/Tracker Blocker & DHCP (PiHole), my own personal Home VPN, Media Server and Cloud Storage. And to top it of, reverse proxies with nginx for easy access.
-
+I am a Linux, FOSS, Networking, Hardware and Privacy enthusiast 🕵️. From building custom PCs 🖥️ (Workstations for CAD, Video Editing and Gaming) to tinkering with RaspberryPis 🫐 and Linux Distributions 🐧.</br>
+</br>
+My mosts recents projects were:</br>
+Upgrading my Home Network to the next level with a Recursive DNS (Unbound), Domain/Tracker Blocker & DHCP (PiHole), my own personal Home VPN, Media Server and Cloud Storage. And to top it of, reverse proxies with nginx for easy access.</br>
+</br>
 Future Planed Projects: Setting up a PfSense Router and upgrading my Media Server & Cloud Storage to a QNAP with TrueNAS (RAIDZ) or a Zigma Board with Open Media Vault and Casa OS with Seagate EXOS HDDs.
 
 

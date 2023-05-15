@@ -53,9 +53,7 @@ Setting up a PfSense Router and upgrading my Media Server & Cloud Storage to a Q
 
 
 Feel free to *[contact](#contact)* 🗣️ me directly.
-
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
+Left aligned Header | Right aligned Header | Center aligned Header
+| :--- | ---: | :---:
+Content Cell  | Content Cell | Content Cell
+Content Cell  | Content Cell | Content Cell

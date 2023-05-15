@@ -38,7 +38,7 @@ experience:
     company_logo: ''
     location: Lisbon, Portugal
     date_start: '2017-02-01'
-    date_end: '2019-03-05'
+    date_end: '2019-05-03'
     description: |2-
         Responsibilities include:
 

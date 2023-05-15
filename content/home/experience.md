@@ -23,7 +23,7 @@ date_format: 02/01/2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: IT Freelancer
-    date_start: '01-01-2015'
+    date_start: '01/01/2015'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -37,8 +37,8 @@ experience:
     company_url: https://www.amt-consulting.com/
     company_logo: ''
     location: Lisbon, Portugal
-    date_start: '01-02-2017'
-    date_end: '10-03-2019'
+    date_start: '01/02/2017'
+    date_end: '10/03/2019'
     description: |2-
         Responsibilities include:
 
@@ -59,8 +59,8 @@ experience:
     company_url: https://www.cbtalents.com/
     company_logo: ''
     location: Lisbon, Portugal
-    date_start: '07-09-2015'
-    date_end: '02-07-2016'
+    date_start: '07/09/2015'
+    date_end: '02/07/2016'
     description: |2-
         Responsabilities include:
  

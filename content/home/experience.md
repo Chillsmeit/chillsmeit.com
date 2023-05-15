@@ -37,8 +37,8 @@ experience:
     company_url: https://www.amt-consulting.com/
     company_logo: ''
     location: Lisbon, Portugal
-    date_start: '2017-01-02'
-    date_end: '2019-10-03'
+    date_start: '2017-02-01'
+    date_end: '2019-03-05'
     description: |2-
         Responsibilities include:
 
@@ -59,8 +59,8 @@ experience:
     company_url: https://www.cbtalents.com/
     company_logo: ''
     location: Lisbon, Portugal
-    date_start: '2015-07-09'
-    date_end: '2016-02-07'
+    date_start: '2015-09-07'
+    date_end: '2016-07-02'
     description: |2-
         Responsabilities include:
  

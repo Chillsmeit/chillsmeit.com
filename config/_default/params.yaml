@@ -40,11 +40,11 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Bernardo Meloe. This work is licensed under {license}'
+    notice: '© {year} Bernardo Melo. This work is licensed under {license}'
     license:
       enable: true
-      allow_derivatives: true
-      share_alike: true
+      allow_derivatives: false
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -65,13 +65,13 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/wowchemy/hugo-documentation-theme'
+    url: ''
     content_dir: content
     branch: main
-  feedback:
-    responses:
-      positive: 'Glad to hear it! [Any ideas for improvements?](https://github.com/<USERNAME>/<REPO>/issues/new).'
-      negative: 'Sorry to hear that. [Please tell us how we can improve](https://github.com/<USERNAME>/<REPO>/issues/new).'
+  editable:
+    page: false
+    post: false
+    book: false
   comment:
     provider: ''
     disqus:

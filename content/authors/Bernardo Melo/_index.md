@@ -12,7 +12,7 @@ role: 'IT Freelancer, Ex-SysAdmin'
 # bio: Sys Admin / IT Freelancer
 
 # Interests to show in About widget
-interests:
+[interests]:
   - Linux Distros
   - Networking
   - Privacy
@@ -21,7 +21,7 @@ interests:
   - Open Source
 
 # Skills to show in About widget
-[]:
+skills:
   - Problem-solving
   - rer
   - er

@@ -23,6 +23,10 @@ interests:
 # Skills to show in About widget
 skills:
   - Problem-solving
+  - rer
+  - er
+  - erer
+  - er
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

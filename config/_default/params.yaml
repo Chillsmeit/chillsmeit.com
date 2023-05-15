@@ -52,7 +52,7 @@ footer:
 locale:
   date_format: '2 January, 2006'
   time_format: '15:04'
-  address_format: pt
+  address_format: pt-br
 
 # Site features
 

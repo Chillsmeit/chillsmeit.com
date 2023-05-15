@@ -20,6 +20,10 @@ interests:
   - Android
   - Open Source
 
+# Skills to show in About widget
+skills:
+  - Problem-solving
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -50,10 +54,10 @@ highlight_name: false
 
 ## this is how to use icons in posts: {{< icon name="download" pack="fas" >}}
 ---
-I am a Linux, FOSS, Networking, Hardware and Privacy enthusiast 🕵️. From building custom PCs 🖥️ (Workstations for CAD, Video Editing and Gaming) to tinkering with RaspberryPis 🫐 and Linux Distributions 🐧. 
+I am a Linux, FOSS, Networking, Hardware and Privacy enthusiast 🕵️. From building custom PCs 🖥️ (Workstations for CAD, Video Editing and Gaming) to tinkering with RaspberryPis 🫐 and Linux Distributions 🐧. </br>
 My mosts recents projects were: Upgrading my Home Network to the next level with a Recursive DNS (Unbound), Domain/Tracker Blocker & DHCP (PiHole), my own personal Home VPN, Media Server and Cloud Storage. And to top it of, reverse proxies with nginx for easy access.
 
-Future Planed Projects: Setting up a PfSense Router and upgrading my Media Server & Cloud Storage to a QNAP with TrueNAS (RAIDZ) or a Zigma Board with Open Media Vault and Casa OS
+Future Planed Projects: Setting up a PfSense Router and upgrading my Media Server & Cloud Storage to a QNAP with TrueNAS (RAIDZ) or a Zigma Board with Open Media Vault and Casa OS with Seagate EXOS HDDs.
 
 
 Feel free to *[contact](#contact)* 🗣️ me directly.

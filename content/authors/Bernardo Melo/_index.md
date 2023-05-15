@@ -54,11 +54,8 @@ Setting up a PfSense Router and upgrading my Media Server & Cloud Storage to a Q
 
 Feel free to *[contact](#contact)* 🗣️ me directly.
 
-**Interests:**
-  - Linux Distros
-  - Networking
-  - Privacy
-  - Hardware
-  - Android
-  - Open Source
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 

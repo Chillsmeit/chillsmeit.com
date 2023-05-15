@@ -1,2 +1,1 @@
-This repository contains all the content on my website (WIP)</br>
-I'm using the [Academic Theme](https://github.com/wowchemy/starter-hugo-academic) for [Hugo](https://github.com/gohugoio/hugo)
+WIP - Personal website powered by [Hugo](https://github.com/gohugoio/hugo), [Netlify](https://www.netlify.com/), and the Academic Resumé Template from [Wowchemy](https://wowchemy.com).

@@ -6,7 +6,7 @@ title: Bernardo Melo
 superuser: true
 
 # Role/position/tagline
- role: 'IT Freelancer, Ex-SysAdmin'
+role: 'IT Freelancer, Ex-SysAdmin'
 
 # Short bio (displayed in user profile at end of posts)
 # bio: Sys Admin / IT Freelancer

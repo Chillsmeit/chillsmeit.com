@@ -6,10 +6,10 @@ title: Bernardo Melo
 superuser: true
 
 # Role/position/tagline
-# role: 'Assistant Professor for International Macroeconomics<br/>Member of Dynare Team'
+# role: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Macroeconomics and Time Series Econometrics.
+bio: Sys Admin / IT Freelancer
 
 # Interests to show in About widget
 interests:

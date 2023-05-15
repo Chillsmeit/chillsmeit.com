@@ -21,7 +21,7 @@ interests:
   - Open Source
 
 # Skills to show in About widget
-skills:
+[]:
   - Problem-solving
   - rer
   - er

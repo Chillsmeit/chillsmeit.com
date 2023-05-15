@@ -26,10 +26,6 @@ content:
 
   # Contact details (edit or remove options as required)
   email: chillsmeit@proton.me
-  address:
-    city: Lisbon
-    country: Portugal
-    country_code: PT
 
 design:
   columns: '2'

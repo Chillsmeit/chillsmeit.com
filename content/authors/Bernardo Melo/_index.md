@@ -12,21 +12,6 @@ role: 'IT Freelancer, Ex-SysAdmin'
 # bio: Sys Admin / IT Freelancer
 
 # Interests to show in About widget
-interests:
-  - Linux Distros
-  - Networking
-  - Privacy
-  - Hardware
-  - Android
-  - Open Source
-
-# Skills to show in About widget
-skills:
-  - Problem-solving
-  - rer
-  - er
-  - erer
-  - er
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -63,7 +48,17 @@ I am a Linux, FOSS, Networking, Hardware and Privacy enthusiast 🕵️. From bu
 My mosts recents projects were:</br>
 Upgrading my Home Network to the next level with a Recursive DNS (Unbound), Domain/Tracker Blocker & DHCP (PiHole), my own personal Home VPN, Media Server and Cloud Storage. And to top it of, reverse proxies with nginx for easy access.</br>
 </br>
-Future Planed Projects: Setting up a PfSense Router and upgrading my Media Server & Cloud Storage to a QNAP with TrueNAS (RAIDZ) or a Zigma Board with Open Media Vault and Casa OS with Seagate EXOS HDDs.
+Future Planed Projects:</br>
+Setting up a PfSense Router and upgrading my Media Server & Cloud Storage to a QNAP with TrueNAS (RAIDZ) or a Zigma Board with Open Media Vault and Casa OS with Seagate EXOS HDDs.
 
 
 Feel free to *[contact](#contact)* 🗣️ me directly.
+
+**Interests:**
+  - Linux Distros
+  - Networking
+  - Privacy
+  - Hardware
+  - Android
+  - Open Source
+
